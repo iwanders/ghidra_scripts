@@ -1,6 +1,6 @@
 # Rename ordinals based on module .def file. Only replaces un-renamed "Ordinal_#" to the EXPORT ones from the file.
 #
-# @category Foo
+# @category iwanders
 #
 
 def is_ghidra():
