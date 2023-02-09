@@ -1,4 +1,4 @@
-# Change function signatures.
+# Set function signatures from a json file.
 #
 # @category iwanders
 #
